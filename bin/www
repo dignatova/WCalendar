@@ -1,11 +1,11 @@
 #!/usr/bin/env node
 
 /**
- * Module dependencies
+ * Module dependencies.
  */
 
 var app = require('../app');
-var debug = require('debug')('wcalendar:server');
+var debug = require('debug')('angular2-nodejs:server');
 var http = require('http');
 
 /**
